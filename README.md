@@ -3,10 +3,10 @@
 <h2>Exploring Weather Trends - Project Instructions </h2
  <br> <h4>Tools Used: SQL, Python </h4>
 <h4>Summary</h4>
-<br>This project was a part of Udacity Nanodegree Data Analyst program where I analyzed local and global temperature data and compared the temperature trends of Singapore with global temperature trends.
+This project was a part of Udacity Nanodegree Data Analyst program where I analyzed local and global temperature data and compared the temperature trends of Singapore with global temperature trends.
 <br>My goal was to create visualizations and listing my observations.
 Some of the questions addressed were:
-
+<br>
 <li>Create a line chart that compares your city’s temperatures with the global temperatures. Make sure to plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable (the last concept in the previous lesson goes over how to do this in a spreadsheet).
 <li>Make observations about the similarities and differences between the world averages and your city’s averages, as well as overall trends. Here are some questions to get you started.
 <li>Is your city hotter or cooler on average compared to the global average? Has the difference been consistent over time?
