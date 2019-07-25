@@ -1,16 +1,12 @@
 # Python-Exploring-Weather-Trends
 
-<h2>Exploring Weather Trends - Project Instructions </h2>
+<h2>Exploring Weather Trends - Project Instructions </h2
+ <br> Tools Used : SQL, Python
 <br><br><h3>Summary</h3>
-<br>In this project, you will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
+<br>This project was a part of Udacity Nanodegree Data Analyst program where I analyzed local and global temperature data and comparedthe temperature trends of Singapore with global temperature trends.
+<br>My goal was to create visualizations and listing my observations.
+Some of the questions addressed are:
 
-<br><br><h3>Instructions</h3>
-<br>Your goal will be to create a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in the closest big city to where you live. To do this, you’ll follow the steps below:
-
-<li>Extract the data from the database. There's a workspace in the next section that is connected to a database. You’ll need to export the temperature data for the world as well as for the closest big city to where you live. You can find a list of cities and countries in the city_list table. To interact with the database, you'll need to write a SQL query.
-<li>Write a SQL query to extract the city level data. Export to CSV.
-<li>Write a SQL query to extract the global data. Export to CSV.
-<li>Open up the CSV in whatever tool you feel most comfortable using. We suggest using Excel or Google sheets, but you are welcome to use another tool, such as Python or R.
 <li>Create a line chart that compares your city’s temperatures with the global temperatures. Make sure to plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable (the last concept in the previous lesson goes over how to do this in a spreadsheet).
 <li>Make observations about the similarities and differences between the world averages and your city’s averages, as well as overall trends. Here are some questions to get you started.
 <li>Is your city hotter or cooler on average compared to the global average? Has the difference been consistent over time?
