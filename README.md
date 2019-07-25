@@ -3,7 +3,7 @@
 <h2>Exploring Weather Trends - Project Instructions </h2
  <br> Tools Used : SQL, Python
 <br><br><h3>Summary</h3>
-<br>This project was a part of Udacity Nanodegree Data Analyst program where I analyzed local and global temperature data and comparedthe temperature trends of Singapore with global temperature trends.
+<br>This project was a part of Udacity Nanodegree Data Analyst program where I analyzed local and global temperature data and compared the temperature trends of Singapore with global temperature trends.
 <br>My goal was to create visualizations and listing my observations.
 Some of the questions addressed were:
 
