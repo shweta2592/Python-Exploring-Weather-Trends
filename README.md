@@ -1,8 +1,8 @@
 # Python-Exploring-Weather-Trends
 
 <h2>Exploring Weather Trends - Project Instructions </h2
- <br> <h3>Tools Used </h3>: SQL, Python
-<br><br><h3>Summary</h3>
+ <br> <h4>Tools Used: SQL, Python </h4>
+<br><br><h4>Summary</h4>
 <br>This project was a part of Udacity Nanodegree Data Analyst program where I analyzed local and global temperature data and compared the temperature trends of Singapore with global temperature trends.
 <br>My goal was to create visualizations and listing my observations.
 Some of the questions addressed were:
